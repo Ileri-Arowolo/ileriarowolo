@@ -12,11 +12,11 @@ const Hero = () => (
      
       <SectionTitle>
         Ileri Arowolo.<br />
-        I build products for businesses
+        I create digital products
       </SectionTitle>
       <SectionText>
-      I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. 
-      Currently, I’m focused on building accessible, human-centered products at Upstatement.
+      I’m a prduct manager specialized in building (and occasionally designing) exceptional digital experiences. 
+      Currently, I’m focused on building accessible, human-centered products.
       </SectionText>
       <SecondaryBtn onClick={()=> window.location = 'https://google.com'}>Check out my work!</SecondaryBtn>
     </LeftSection>

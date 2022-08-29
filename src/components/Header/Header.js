@@ -15,7 +15,7 @@ const Header = () =>  (
     </Link>
   </Div1> */}
 <Div3>
-  <li>
+  {/* <li>
     <Link href="#about">
       <NavLink><Span>01.</Span>About</NavLink>
     </Link>
@@ -34,7 +34,7 @@ const Header = () =>  (
     <Link href="#contact">
       <NavLink><Span>03.</Span>Contact</NavLink>
     </Link>
-  </li>
+  </li> */}
 
   <SecondaryBtn>Resume</SecondaryBtn>
 </Div3>

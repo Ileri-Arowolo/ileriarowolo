@@ -16,11 +16,11 @@ const About = () => {
 
       <LeftSection> 
           <SectionText>
-          Hello! My name is Brittany and I enjoy creating things that live on the internet. My interest in web development started back in 2012 when 
+          I enjoy creating things that live on the internet. My interest in web development started back in 2012 when 
            a custom reblog button taught me a lot about HTML & CSS!
           </SectionText>
           <SectionText>
-          Hello! My name is Brittany and I enjoy creating things that live on the internet. My interest in web development started back in 2012 when 
+           and I enjoy creating things that live on the internet. My interest in web development started back in 2012 when 
           together a custom reblog button taught me a lot about HTML & CSS!
           </SectionText>
 
